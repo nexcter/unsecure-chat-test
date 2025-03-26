@@ -7,3 +7,4 @@ shine: hihai hai
 shine: what can i do 
 devin: shut up
 devin: shine: hi i i
+devin: devin: hi
