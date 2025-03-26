@@ -5,3 +5,4 @@ devin: hi
 devin: HELLO I AM ALIEN FROM MARS
 shine: hihai hai 
 shine: what can i do 
+devin: shut up
