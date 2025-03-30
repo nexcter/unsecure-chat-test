@@ -13,3 +13,4 @@ dein: hi
 [color=gray]ghfghf has joined[/color]
 [color=yellow]ghfghf:[/color] kjgjjk
 devin: hi
+devin: hello shibe
