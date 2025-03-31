@@ -24,3 +24,4 @@ ben: hello
 devin2: hi gyz
 devin2: how r yall doin
 [color=gray]evilben has joined[/color]
+[color=cyan]evilben:[/color] wsg
