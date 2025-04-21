@@ -3,3 +3,4 @@
 [color=gray]Devin has joined[/color]
 [color=red]Devin:[/color] Hello people of this room
 [color=gray]Devin2 has joined[/color]
+[color=yellow]Devin2:[/color] Hi
