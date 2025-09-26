@@ -9,3 +9,4 @@
 [color=red]Devin:[/color] byue
 [color=gray]hello has joined[/color]
 [color=red]hello:[/color] hi
+[color=red]hello:[/color] how r u
