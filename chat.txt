@@ -12,3 +12,4 @@
 [color=red]hello:[/color] how r u
 [color=red]hello:[/color] doin good i see!
 [color=red]hello:[/color] bye
+[color=gray]tdg has joined[/color]
