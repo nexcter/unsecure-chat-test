@@ -10,3 +10,4 @@
 [color=gray]hello has joined[/color]
 [color=red]hello:[/color] hi
 [color=red]hello:[/color] how r u
+[color=red]hello:[/color] doin good i see!
