@@ -13,3 +13,4 @@
 [color=red]hello:[/color] doin good i see!
 [color=red]hello:[/color] bye
 [color=gray]tdg has joined[/color]
+[color=yellow]tdg:[/color] hai again
