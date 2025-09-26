@@ -8,3 +8,4 @@
 [color=yellow]Devin2:[/color] byebye
 [color=red]Devin:[/color] byue
 [color=gray]hello has joined[/color]
+[color=red]hello:[/color] hi
